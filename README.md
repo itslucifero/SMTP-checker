@@ -12,14 +12,18 @@ SMTPSERVER|PORT|SMTPUSER|SMTPPASS
 
 My script can scan millions of smtps ; and also i didn't delete the old version of single checker i just made it as an option in the script.
 
+Result will be saved to :
+AliveSMTP.txt
+DeadSMTP.txt
+
 USE : 
 
 python smtp.py
 
 Req :
 
-pip install crayons
-pip install smtplib
+- pip install crayons
+- pip install smtplib
 
 enter your smtp host and port and logins
 it will detect SSL or TLS by port number so don't worry.
