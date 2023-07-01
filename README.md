@@ -28,9 +28,3 @@ Req :
 enter your smtp host and port and logins
 it will detect SSL or TLS by port number so don't worry.
 
-Old version :
-![Screen](https://github.com/hrackedz/SMTP-checker/blob/main/smtp.PNG?raw=true)
-
-New one :
-
-![Screen](https://github.com/hrackedz/SMTP-checker/blob/main/checker.PNG?raw=true)
