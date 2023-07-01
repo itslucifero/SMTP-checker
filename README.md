@@ -1,4 +1,9 @@
 # SMTP Checker v 0.2 (Added Bulk Checker)
+
+
+Contact me for it : https://t.me/mrhouse998
+
+
 Script in python uses smtplib to chek if your smtp server works or dead.
 
 In version 0.1 , it was a sngle checker , by that i mean single smtp checker .
